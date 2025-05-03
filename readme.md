@@ -21,8 +21,6 @@
 - El costo total del envío desglosado.
 - La fecha estimada de entrega (puede asumir un tiempo fijo de procesamiento
   de 2 días y un tiempo de transporte de 1 día por cada 100 km).
-- Asegurese que node_modules no forma parte de la tarea que presenta.
-- Suba su proyecto a github y comparta el enlace a su repositorio.
 
 ### Ejemplo de la salida
 
