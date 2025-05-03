@@ -1,0 +1,15 @@
+{
+  "name": "tarea",
+  "version": "1.0.0",
+  "description": "Tarea - Ambiente de desarollo",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Moises Padmoe",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "nodemon": "^3.1.10"
+  }
+}
